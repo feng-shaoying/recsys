@@ -1,7 +1,0 @@
--   So far, to some extent it is still unclear which explanation generation approach could help to improve the mentioned aspects. To address this gap, our focus in this paper is to propose social choice-based explanations and investigate which explanation best helps to increase the fairness perception, consensus perception, and satisfaction of group members with regard to group recommendations.
--   The contribution of this paper is fourfold.
--   One limitation of the paper lies in the distribution of explanations to the participants.
--   On the other hand, within the scope of future work, we will extend this study by investigating fairness and consensus aspects in the context of different decision domains.
--   To the best of our knowledge, up to now,......(据我们所知，到目前为止，......)
--   To fill this gap, in this paper, we propose......（为了填补这一空白，在本文中，我们提出）
--   Extensive research has been carried out to understand how recommender systems influence decision-making processes. Studies in this line of research have pointed out that the design and evaluation of recommender systems should take into account psychological factors beyond recommendation algorithms. Inspired by this finding, psychology-enhanced recommender systems have been recently developed to improve the quality of recommendations. 为了了解推荐系统如何影响决策过程，已经进行了广泛的研究。这一研究方向的研究指出，推荐系统的设计和评估应考虑推荐算法之外的心理因素。受这一发现的启发，心理学增强的推荐系统最近被开发出来，以提高推荐的质量。
