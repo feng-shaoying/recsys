@@ -1,8 +1,12 @@
-# [Hu_Pu_2013_Exploring Relations between Personality and User Rating Behaviors](./Hu_Pu_2013_Exploring-Relations-between-Personality-and-User-Rating-Behaviors.pdf)
+# [Hu_Pu_2013_Exploring Relations between Personality and User Rating Behaviors](/Personality/Hu_Pu_2013_Exploring-Relations-between-Personality-and-User-Rating-Behaviors.pdf)
 
 Keywords: #Personality , #UserModeling , #RatingBehavior , #Preference 
 
 ## 1 Introduction
+
+[1](Personality/Hu_Pu_2013_Exploring-Relations-between-Personality-and-User-Rating-Behaviors.pdf)
+
+[2](./Personality/Hu_Pu_2013_Exploring-Relations-between-Personality-and-User-Rating-Behaviors.pdf)
 
 心理学研究表明，个人的行为和偏好在很大程度上可以由潜在的心理构念(或所谓的性格特征)来解释。例如，已经发现性格特征与人们的音乐品味相关，并影响社会关系的形成。同样，在网络环境中，先前的研究表明，某些性格特征与互联网使用量、对不同界面的偏好以及用户使用社交媒体和社交网站的倾向相关。最近的研究表明，性格特征与人们的社交网络密切相关。了解一个人的性格使我们能够跨上下文和环境预测他的行为和偏好，并通过性格化界面和呈现的信息来增强用户体验。
 在本文中，**我们试图研究性格特征与用户评价行为之间的关系**。对用户的偏好进行建模是智能系统定制性格化服务的关键步骤之一。例如，推荐系统(RS)试图建议(或推荐)用户可能会感兴趣的不可见内容。RS中建立用户偏好模型的一种常见方法是要求用户明确地对物品进行评价，从而推断出他们的偏好。因此，研究用户的评价行为有助于用户偏好建模的有效性和准确性。然而，**据我们所知，很少有人尝试将心理概况与用户评价行为联系起来**。
