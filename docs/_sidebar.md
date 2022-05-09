@@ -1,9 +1,6 @@
 * [首页](/)
-* 心理因素
-  - [HumanizedRecommenderSystemsState-of-the-artAndResearchIssues](/心理因素/HumanizedRecommenderSystemsState-of-the-artAndResearchIssues.md)
-  - [GeneratingConsensusExplanationsForGroupRecommendations](/心理因素/GeneratingConsensusExplanationsForGroupRecommendations.md)
-  - [SocialUtilitiesAndPersonalityTraitsForGroupRecommendationAPilotUserStudy](/心理因素/SocialUtilitiesAndPersonalityTraitsForGroupRecommendationAPilotUserStudy.md)
-  - [TowardsSocialChoice-basedExplanationsInGroupRecommenderSystems](/心理因素/TowardsSocialChoice-basedExplanationsInGroupRecommenderSystems.md)
+* Personality
+  - [探讨性格与用户评价行为的关系统](/Personality/Hu_Pu_2013_Exploring-Relations-between-Personality-and-User-Rating-Behaviors.md)
 *  [相关论文](Papers/)
 *  [recsys](recsys/)
 
