@@ -1,4 +1,4 @@
-# [Hu_Pu_2013_Exploring Relations between Personality and User Rating Behaviors](https://fengshaoying.oss-cn-shanghai.aliyuncs.com/RecSys/Personality/Hu_Pu_2013_Exploring%20Relations%20between%20Personality%20and%20User%20Rating%20Behaviors.pdf)
+# [Hu_Pu_2013_Exploring Relations between Personality and User Rating Behaviors](https://recsys.org.cn/Personality/Hu_Pu_2013_Exploring-Relations-between-Personality-and-User-Rating-Behaviors.pdf)
 
 Keywords: #Personality , #UserModeling , #RatingBehavior , #Preference 
 
