@@ -1,4 +1,4 @@
-# [Hu_Pu_2013_Exploring Relations between Personality and User Rating Behaviors](https://recsys.org.cn/Personality/Hu_Pu_2013_Exploring-Relations-between-Personality-and-User-Rating-Behaviors.pdf)
+# [Hu_Pu_2013_Exploring Relations between Personality and User Rating Behaviors](https://fengshaoying.oss-cn-shanghai.aliyuncs.com/RecSys/Personality/Hu_Pu_2013_Exploring%20Relations%20between%20Personality%20and%20User%20Rating%20Behaviors.pdf)
 
 Keywords: #Personality , #UserModeling , #RatingBehavior , #Preference 
 
@@ -26,6 +26,7 @@ Keywords: #Personality , #UserModeling , #RatingBehavior , #Preference
 - **Neuroticism 神经质** ：通常被称为情绪不稳定，是一种倾向于经历情绪波动和负面情绪，如内疚、愤怒、焦虑和抑郁。
 
 **这五种特征已经被观察到是遗传的，随着时间的推移是稳定的，在性别、文化和种族上是一致的**。表1总结了五大性格特征，以及它们对高分和低分的代表性描述。
+
 ![](https://fengshaoying.oss-cn-shanghai.aliyuncs.com/images/202205061211185.png)
 
 
@@ -50,7 +51,6 @@ Big Five Inventory (BFI, 44项)用于评估用户的性格(Big Five Personality 
 我们在校园招募参与者(例如，在图书馆、实验室、自助餐厅和地铁站，或通过邮件列表)，或通过在Facebook上发布我们的广告。所有参与者还被邀请提供一个电子邮件地址，以便参加价值100瑞士法郎的礼券抽奖活动。在我们的研究中总共招募了122名参与者。我们通过检验他们对BFI所拥有的16对相反项目的一致性来检验他们的回答的信度。并过滤掉了那些在这16对条目中有超过4个不一致的回复的用户，最终我们得到了86个有可靠回复的用户。这些参与者包括23名女性(26.7%)和63名男性(73.3%)。这些参与者来自22个不同的国家(中国、韩国、瑞士、法国等)，有不同的职业(学生、研究助理、软件工程师、公司员工、管理人员，企业家等等）。其中，21-30岁的用户最多(86人中有74人)，0-20岁的用户有6人，31- 40岁的用户有6人。大学学历用户23人，研究生学历用户58人，高中毕业4人，其他1人。56%的用户(48人)曾经使用过推荐系统，其中有18人每周使用推荐系统超过3次。76%的用户(65人)曾使用电商网站进行网上购物，14名用户每周使用3次以上。
 
 
-
 ## 3 Results
 
 ### 3.1 Correlation with rating behavior variables
@@ -58,8 +58,8 @@ Big Five Inventory (BFI, 44项)用于评估用户的性格(Big Five Personality 
 我们首先研究性格特质和用户评价行为变量之间的关系,包括评价项目的数量(NRI)，正面评价的百分比(PerPR)，评价项目的类别覆盖率(CatCoverage-1, CatCoverage-2, CatCoverage-3)，以及兴趣多样性(IntDiversity-1, IntDiversity-2, IntDiversity-3)。
 
 我们计算评价行为变量与性格特征之间的皮尔逊积差相关分析，加上四个额外的独立属性，即年龄、性别、使用推荐的频率和网上购物的频率。结果见表2。
-![](https://fengshaoying.oss-cn-shanghai.aliyuncs.com/images/202205061215908.png)
 
+![](https://fengshaoying.oss-cn-shanghai.aliyuncs.com/images/202205061215908.png)
 
 **责任心与评价项目数量呈负相关(β = -0.177, p < 0.1)**。这是合理的，因为责任心得分高的人对他们需要完成的任务更负责。他们会仔细选择和评价产品，并严格遵守要求。
 
@@ -80,16 +80,16 @@ Big Five Inventory (BFI, 44项)用于评估用户的性格(Big Five Personality 
 ### 3.2 Personality in different behavior groups
 
 在本节中，我们将深入研究评价数量的长尾。图1绘制了评价项目数量的分布。x轴表示评价项目的数量，y轴表示参与者的数量。正如我们从分布中看到的，大多数参与者(86个中的28个)只对要求的30个项目打分。我们将这个组定义为“**obligation group义务组**”，因为此区域内的用户刚刚完成了他们要求的任务。几乎同等数量的参与者比要求的数量稍多(1到2项)，即31项或32项。这一组被定义为"**inertia group惯性组**"，它可能受到所要求的评价数目的影响。在那之后，很少有用户评价更多。我们将这个长尾分成两部分，参与者数量相等，这样两组就有足够的参与者进行有意义的统计分析。我们有一个合理的分界点，50个项目评价数。这两个组分别被称为“**dispersion group扩散组**”和“**explosion group爆发组**”，这是基于他们给出的评价的数量。我们很好奇这四组人是否代表着不同的评价行为模式，不同的性格。
+
 ![](https://fengshaoying.oss-cn-shanghai.aliyuncs.com/images/202205061209357.png)
 
 我们进行了单因素方差分析，将评价组作为IVs，将性格特征得分作为DVs，然后进行事后两两比较(Bonferroni)，以确定这四组性格特征之间的差异。四个评价组中每个性格特质的平均得分如图2所示。
-![](https://fengshaoying.oss-cn-shanghai.aliyuncs.com/images/202205061210283.png)
 
+![](https://fengshaoying.oss-cn-shanghai.aliyuncs.com/images/202205061210283.png)
 
 方差分析结果显示，经验开放性性格特质存在显著性差异(F(3,82) = 3.171, p = 0.029)。两两比较结果显示，扩散组用户的经验开放性得分(mean:3.90,SD: 0.33)显著高于其他三组、义务组用户(mean:3.48,SD: 0.46;t = 3.541, p = 0.001)、惯性组(mean:3.58,SD: 0.48;t = 2.510, p = 0.016)、爆发组(mean: 3.49, SD: 0.58;T = 2.514, p = 0.019)。虽然四组用户的尽责性性格没有统计学差异，但我们发现爆发组用户的尽责性性格得分显著低于义务组(均值:3.13，标准差:0.53 vs均值:3.50，标准差:0.65; T = 2.109, p = 0.041)。  
 
 至于其他三个性格特质，我们没有发现组间和成对之间有统计学上的显著差异。
-
 
 
 ## 4 Discussion
@@ -105,6 +105,7 @@ Big Five Inventory (BFI, 44项)用于评估用户的性格(Big Five Personality 
 **性别**是另一个在统计上与评价数量、类别覆盖面和兴趣多样性变量显著相关的因素。然而，在我们当前的实验设置中，我们没有发现其他自变量(即年龄、以前的推荐经验和电子商务)之间的显著相关。需要更多的探索性和深入的实验。
 
 **Theoretical Implications.**认识到性格对用户评价行为的影响是有价值的。研究表明，当社交媒体网站、推荐系统和电子商务零售商等智能系统使用评价数据为用户建模时，考虑性格的影响是至关重要的。此外，由于评价直接影响推断出的用户偏好的准确性，从业人员和设计师可以考虑设计性格化的界面，以获得更有用的评价信息。  例如，随和的人可能会给予正面评价。展示给他们的界面可以激励他们给出真实的意见。另一方面，当从业者评估他们的系统时，他们应该避开那些亲和性得分高的评估者。性别似乎是一个具有强烈影响且容易获得的中介。因此，在构建性格化智能系统时需要考虑这一因素。
+
 
 ## 5 Thinking
 1. 做实验的文章可以参照该论文，方法，模型，设计等都可以参考。
